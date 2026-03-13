@@ -161,3 +161,89 @@ Startup programs list
 Conclusion
 
 The security audit confirmed that important system security features such as firewall protection, system updates, and malware scanning are active. Maintaining strong passwords, updating software regularly, and managing startup programs helps keep the system secure.
+
+
+
+Security Audit Checklist Report 
+
+ 
+
+ 
+
+📚 Course 
+
+IT Security – Defense Against the Digital Dark Arts 
+
+ 
+
+👩‍💻 Student 
+
+Kgomotso Xaba 
+
+ 
+
+Submission Date 
+
+13 February 2026 
+
+ 
+
+Project Overview 
+
+ 
+
+This project involved performing a basic security audit on a Windows computer.  
+
+The goal was to check important security settings and ensure the system is protected from cyber threats such as malware, unauthorized access, and vulnerabilities. 
+
+ 
+
+The audit focused on several key security areas including password strength, firewall protection, system updates, and malware scanning. 
+
+ 
+
+System Security Check 
+
+1. Password Strength 
+Status: Checked 
+Suggestion: Use a strong password with letters, numbers, and symbols. 
+
+2. Firewall Status 
+Status: ON 
+Suggestion: Make sure the firewall stays enabled for all networks. 
+
+3. Windows Updates 
+Status: Checked 
+Suggestion: Install updates regularly to fix security vulnerabilities. 
+
+4. Virus & Malware Scan 
+Status: Quick scan completed 
+Suggestion: Run regular scans to detect malware and threats. 
+
+5. Startup Programs 
+Status: Reviewed 
+Suggestion: Disable unnecessary startup programs to improve performance and security. 
+
+ 
+
+Improvements Made 
+
+Firewall was confirmed to be enabled. 
+
+The system was checked for latest updates. 
+
+A virus and malware scan was performed. 
+
+Startup programs were reviewed. 
+
+ 
+
+Suggestions for Better Security 
+
+Use strong passwords. 
+
+Keep the system updated. 
+
+Run virus scans regularly. 
+
+Avoid downloading files from unknown sources. 
