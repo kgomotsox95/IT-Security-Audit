@@ -226,7 +226,7 @@ Suggestion: Disable unnecessary startup programs to improve performance and secu
 
  
 
-Improvements Made 
+Improvements Made: 
 
 Firewall was confirmed to be enabled. 
 
@@ -238,7 +238,7 @@ Startup programs were reviewed.
 
  
 
-Suggestions for Better Security 
+Suggestions for Better Security:
 
 Use strong passwords. 
 
