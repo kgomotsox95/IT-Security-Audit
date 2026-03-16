@@ -38,9 +38,9 @@ Settings → Accounts → Sign-in options
 
 <img width="1321" height="675" alt="sign-in options 3" src="https://github.com/user-attachments/assets/8ad21108-7f5a-4125-baa0-dd161a44dfd7" />
 
-<img width="1232" height="640" alt="Accounts (1)" src="https://github.com/user-attachments/assets/af0c28ce-3390-4c86-b193-179f46b85ad3" />
-
 <img width="1362" height="692" alt="finish" src="https://github.com/user-attachments/assets/192856c1-2230-4131-ab1d-4ec24afdda50" />
+
+
 
 
 
