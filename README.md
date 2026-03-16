@@ -40,9 +40,8 @@ Settings → Accounts → Sign-in options
 
 <img width="1232" height="640" alt="Accounts (1)" src="https://github.com/user-attachments/assets/af0c28ce-3390-4c86-b193-179f46b85ad3" />
 
-<img width="1232" height="640" alt="Accounts (2)" src="https://github.com/user-attachments/assets/b91ee2e7-7d29-4d66-9685-e1572d801a0e" />
-
 <img width="1362" height="692" alt="finish" src="https://github.com/user-attachments/assets/192856c1-2230-4131-ab1d-4ec24afdda50" />
+
 
 
 
